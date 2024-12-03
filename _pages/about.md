@@ -15,12 +15,12 @@ Email: [zhiyuan.1.wu@kcl.ac.uk](zhiyuan.1.wu@kcl.ac.uk)
 
 News
 ======
-**Sep 2024**: I start my PhD journey at King's College London!
-**Jul 2024**: I receive Distinguished Graduate of Tongji University! 
-**Jun 2024**: I receive Distinguished Undergraduate Thesis Award of Tongji University! (1/64)
-**Apr 2024**: I start an internship at Tencent XR Vision Lab! 
-**Apr 2024**: I receive Pursuit of Excellence Nomination Scholarship of Tongji University!
-**Jan 2024**: One paper accepted by ICRA 2024! 
-**Jan 2024**: One paper accepted by IEEE TIV! 
-**Dec 2023**: I receive Academic Star Pacesetter of Tongji University!
-**Jan 2023**: One paper accepted by ICRA 2023!
+* **Sep 2024**: I start my PhD journey at King's College London!
+* **Jul 2024**: I receive Distinguished Graduate of Tongji University! 
+* **Jun 2024**: I receive Distinguished Undergraduate Thesis Award of Tongji University!
+* **Apr 2024**: I start an internship at Tencent XR Vision Lab! 
+* **Apr 2024**: I receive Pursuit of Excellence Nomination Scholarship of Tongji University!
+* **Jan 2024**: One paper accepted by ICRA 2024! 
+* **Jan 2024**: One paper accepted by IEEE TIV! 
+* **Dec 2023**: I receive Academic Star Pacesetter of Tongji University!
+* **Jan 2023**: One paper accepted by ICRA 2023!
