@@ -20,7 +20,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 author:
   # Biographic information
   avatar           : "self-photo.png"
-  name             : "Zhiyuan"
+  name             : "Zhiyuan Wu"
   location         : "London, United Kingdom"
   employer         : "King's College London"
   email            : "zhiyuan.1.wu@kcl.ac.uk" 
