@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student at Robot Perception Lab, King's College London, supervised by Dr. [Shan Luo](https://shanluo.github.io/). My research interest includes Multi-modal Perception, Robot Learning, and AIGC. Previously, I obtained my Bachelor's degree from Tongji University, supervised by Prof. [Rui Fan](https://www.ruirangerfan.com/). 
+I am a first-year PhD student at Robot Perception Lab, King's College London, supervised by Dr. [Shan Luo](https://shanluo.github.io/). My research interest includes **Multi-modal Perception**, **Robot Learning**, and **AIGC**. Previously, I obtained my Bachelor's degree from Tongji University, supervised by Prof. [Rui Fan](https://www.ruirangerfan.com/). 
 
 Contact
 ======
