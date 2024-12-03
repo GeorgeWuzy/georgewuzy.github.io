@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Zhiyuan Wu"
 title_separator          : "-"
 name                     : &name "Zhiyuan Wu"
-url                      : https://georgewuzy.github.io/zhiyuan.1.wu.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://georgewuzy.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
