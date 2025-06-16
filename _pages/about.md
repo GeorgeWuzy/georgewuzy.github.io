@@ -16,7 +16,7 @@ Email: [zhiyuan.1.wu@kcl.ac.uk](zhiyuan.1.wu@kcl.ac.uk)
 News
 ======
 * **Jun 2025**: One paper accepted by **IROS** 2025. Thanks to all authors!
-* **May 2025**: One paper accepted by IEEE **TIM**. Congrads to Ming-Ju!
+* **May 2025**: One paper accepted by IEEE **TIM**. Congrats to Ming-Ju!
 * **Apr 2025**: I start an internship at Noah's Ark Lab, London!
 * **Sep 2024**: I start my PhD journey at King's College London!
 * **Jul 2024**: I receive Distinguished Graduate from Tongji University!
