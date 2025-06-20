@@ -25,6 +25,6 @@ News
 * **Apr 2024**: I start an internship at Tencent XR Vision Lab, Shanghai!
 * **Apr 2024**: I receive Pursuit of Excellence Nomination Scholarship from Tongji University!
 * **Jan 2024**: SG-RoadSeg is accepted by **ICRA** 2024. Thanks to all authors!
-* **Jan 2024**: S$^3$M-Net is accepted by IEEE **TIV**. Thanks to all authors!
+* **Jan 2024**: S<sup>3</sup>M-Net is accepted by IEEE **TIV**. Thanks to all authors!
 * **Dec 2023**: I receive Academic Star Pacesetter from Tongji University!
 * **Jan 2023**: TA-Stereo is accepted by **ICRA** 2023. Thanks to all authors!
