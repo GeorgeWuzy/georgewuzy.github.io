@@ -17,6 +17,7 @@ Email: [zhiyuan.1.wu@kcl.ac.uk](zhiyuan.1.wu@kcl.ac.uk)
 
 News
 ======
+* **Sep 2025**: ViTacGen is accepted by IEEE **RA-L**. Thanks to all authors!
 * **Sep 2025**: LIX is accepted by IEEE **TIP**. Congrats to Sicen!
 * **Jun 2025**: TiCoSS is accepted by IEEE **TASE**. Congrats to Guanfeng!
 * **Jun 2025**: ConViTac is accepted by **IROS** 2025. Thanks to all authors!
