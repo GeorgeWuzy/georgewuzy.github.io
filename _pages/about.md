@@ -15,7 +15,7 @@ Email: [zhiyuan.1.wu@kcl.ac.uk](zhiyuan.1.wu@kcl.ac.uk)
 
 News
 ======
-* **Oct 2025**: **<span style="color: darkblue;">ViTacGen</span>** is accepted by IEEE **RA-L**. Thanks to all authors! [[website](https://robot-perception-lab.github.io/vitacgen-website/)]
+* **Oct 2025**: **<span style="color: darkblue;">ViTacGen</span>** is accepted by IEEE **RA-L**. Thanks to all authors! [[website](https://robot-perception-lab.github.io/vitacgen-website/)][[paper](https://ieeexplore.ieee.org/document/11204497)]
 * **Sep 2025**: **<span style="color: darkblue;">LIX</span>** is accepted by IEEE **TIP**. Congrats to Sicen! [[paper](https://arxiv.org/pdf/2403.08215)]
 * **Jun 2025**: **<span style="color: darkblue;">TiCoSS</span>** is accepted by IEEE **TASE**. Congrats to Guanfeng! [[paper](https://arxiv.org/pdf/2407.18038)]
 * **Jun 2025**: **<span style="color: darkblue;">ConViTac</span>** is accepted by **IROS** 2025. Thanks to all authors! [[website](https://georgewuzy.github.io/ConViTac-website/)][[paper](https://arxiv.org/pdf/2506.20757)]
