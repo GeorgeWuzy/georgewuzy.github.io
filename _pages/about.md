@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div style="text-align: justify;">
-I am a second-year PhD student at Robot Perception Lab, King's College London, supervised by Dr. <a href="https://shanluo.github.io/" style="color: black;">Shan Luo</a>. I am also a research intern in Noah’s Ark Lab, London, supervised by Dr. <a href="https://jiankangdeng.github.io/" style="color: black;">Jiankang Deng</a>. Previously, I obtained my Bachelor's degree from Tongji University, supervised by Prof. <a href="https://www.ruirangerfan.com/" style="color: black;">Rui Fan</a>. I was a research intern at Tencent XR Vision Lab, directed by Dr. <a href="https://panji530.github.io/" style="color: black;">Pan Ji</a>. My research interest includes Multi-modal Perception, 3D Vision, and Robot Manipulation.
+I am a second-year PhD student at Robot Perception Lab, King's College London, supervised by Dr. [Shan Luo](https://shanluo.github.io/). I am also a research intern in Noah’s Ark Lab, London, supervised by Dr. [Jiankang Deng](https://jiankangdeng.github.io/). Previously, I obtained my Bachelor's degree from Tongji University, supervised by Prof. [Rui Fan](https://www.ruirangerfan.com/). I was a research intern at Tencent XR Vision Lab, directed by Dr. [Pan Ji](https://panji530.github.io/). My research interest includes Multi-modal Perception, 3D Vision, and Robot Manipulation.
 </div>
 
 Contact
