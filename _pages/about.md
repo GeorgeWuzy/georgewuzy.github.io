@@ -19,7 +19,7 @@ News
 ======
 * **Oct 2025**: <span style="color: darkblue;">ViTacGen</span> is accepted by IEEE **RA-L**. Thanks to all authors! [[<span style="color: darkblue;">website</span>](https://robot-perception-lab.github.io/vitacgen-website/)]
 * **Sep 2025**: <span style="color: darkblue;">LIX</span> is accepted by IEEE **TIP**. Congrats to Sicen! [[<span style="color: darkblue;">paper</span>](https://arxiv.org/pdf/2403.08215)]
-* **Jun 2025**: <span style="color: darkblue;">TiCoSS</span> is accepted by IEEE **TASE**. Congrats to Guanfeng! [[<span style="color: darkblue;">paper</span>](https://arxiv.org/pdf/2407.18038))]
+* **Jun 2025**: <span style="color: darkblue;">TiCoSS</span> is accepted by IEEE **TASE**. Congrats to Guanfeng! [[<span style="color: darkblue;">paper</span>](https://arxiv.org/pdf/2407.18038)]
 * **Jun 2025**: <span style="color: darkblue;">ConViTac</span> is accepted by **IROS** 2025. Thanks to all authors! [[<span style="color: darkblue;">website</span>](https://georgewuzy.github.io/ConViTac-website/)][[<span style="color: darkblue;">paper</span>](https://arxiv.org/pdf/2506.20757)]
 * **May 2025**: <span style="color: darkblue;">SG-RoadSeg+</span> is accepted by IEEE **TIM**. Congrats to Ming-Ju! [[<span style="color: darkblue;">paper</span>]](https://ieeexplore.ieee.org/abstract/document/11037419) 
 * **Apr 2025**: I start an internship at Noah's Ark Lab, London!
