@@ -17,18 +17,18 @@ Email: [zhiyuan.1.wu@kcl.ac.uk](zhiyuan.1.wu@kcl.ac.uk)
 
 News
 ======
-* **Oct 2025**: <span style="color: darkblue;">ViTacGen</span> is accepted by IEEE **RA-L**. Thanks to all authors! [[<span style="color: darkblue;">website</span>](https://robot-perception-lab.github.io/vitacgen-website/)]
-* **Sep 2025**: <span style="color: darkblue;">LIX</span> is accepted by IEEE **TIP**. Congrats to Sicen! [[<span style="color: darkblue;">paper</span>](https://arxiv.org/pdf/2403.08215)]
-* **Jun 2025**: <span style="color: darkblue;">TiCoSS</span> is accepted by IEEE **TASE**. Congrats to Guanfeng! [[<span style="color: darkblue;">paper</span>](https://arxiv.org/pdf/2407.18038)]
-* **Jun 2025**: <span style="color: darkblue;">ConViTac</span> is accepted by **IROS** 2025. Thanks to all authors! [[<span style="color: darkblue;">website</span>](https://georgewuzy.github.io/ConViTac-website/)][[<span style="color: darkblue;">paper</span>](https://arxiv.org/pdf/2506.20757)]
-* **May 2025**: <span style="color: darkblue;">SG-RoadSeg+</span> is accepted by IEEE **TIM**. Congrats to Ming-Ju! [[<span style="color: darkblue;">paper</span>]](https://ieeexplore.ieee.org/abstract/document/11037419) 
+* **Oct 2025**: <span style="color: darkblue;">ViTacGen</span> is accepted by IEEE **RA-L**. Thanks to all authors! [[website](https://robot-perception-lab.github.io/vitacgen-website/)]
+* **Sep 2025**: <span style="color: darkblue;">LIX</span> is accepted by IEEE **TIP**. Congrats to Sicen! [[paper](https://arxiv.org/pdf/2403.08215)]
+* **Jun 2025**: <span style="color: darkblue;">TiCoSS</span> is accepted by IEEE **TASE**. Congrats to Guanfeng! [[paper](https://arxiv.org/pdf/2407.18038)]
+* **Jun 2025**: <span style="color: darkblue;">ConViTac</span> is accepted by **IROS** 2025. Thanks to all authors! [[website](https://georgewuzy.github.io/ConViTac-website/)][[paper](https://arxiv.org/pdf/2506.20757)]
+* **May 2025**: <span style="color: darkblue;">SG-RoadSeg+</span> is accepted by IEEE **TIM**. Congrats to Ming-Ju! [[paper](https://ieeexplore.ieee.org/abstract/document/11037419)]
 * **Apr 2025**: I start an internship at Noah's Ark Lab, London!
 * **Sep 2024**: I start my PhD journey at King's College London!
 * **Jul 2024**: I receive Distinguished Graduate from Tongji University!
 * **Jun 2024**: I receive Distinguished Undergraduate Thesis Award from Tongji University!
 * **Apr 2024**: I start an internship at Tencent XR Vision Lab, Shanghai!
 * **Apr 2024**: I receive Pursuit of Excellence Nomination Scholarship from Tongji University!
-* **Jan 2024**: <span style="color: darkblue;">SG-RoadSeg</span> is accepted by **ICRA** 2024. Thanks to all authors! [[<span style="color: darkblue;">paper</span>](https://www.ruirangerfan.com/pdf/icra2024_wu.pdf)][[<span style="color: darkblue;">demo</span>](https://www.youtube.com/watch?v=WFHcpN8HPKI)]
-* **Jan 2024**: S<sup>3</sup>M-Net is accepted by IEEE **TIV**. Thanks to all authors! [[<span style="color: darkblue;">paper</span>](https://arxiv.org/pdf/2401.11414)]
+* **Jan 2024**: <span style="color: darkblue;">SG-RoadSeg</span> is accepted by **ICRA** 2024. Thanks to all authors! [[paper](https://www.ruirangerfan.com/pdf/icra2024_wu.pdf)][[demo](https://www.youtube.com/watch?v=WFHcpN8HPKI)]
+* **Jan 2024**: S<sup>3</sup>M-Net is accepted by IEEE **TIV**. Thanks to all authors! [[paper](https://arxiv.org/pdf/2401.11414)]
 * **Dec 2023**: I receive Academic Star Pacesetter from Tongji University!
-* **Jan 2023**: TA-Stereo is accepted by **ICRA** 2023. Thanks to all authors! [[<span style="color: darkblue;">paper</span>](https://www.ruirangerfan.com/pdf/icra2023_wu.pdf)][[<span style="color: darkblue;">data</span>](https://mias.group/TA-Stereo/)]
+* **Jan 2023**: TA-Stereo is accepted by **ICRA** 2023. Thanks to all authors! [[paper](https://www.ruirangerfan.com/pdf/icra2023_wu.pdf)][[data](https://mias.group/TA-Stereo/)]
