@@ -15,6 +15,7 @@ Email: [zhiyuan.1.wu@kcl.ac.uk](zhiyuan.1.wu@kcl.ac.uk)
 
 News
 ======
+* **Jan 2025**: **<span style="color: darkblue;">CEDex</span>** is accepted by IEEE **ICRA** 2026. Thanks to all authors! [[website](https://georgewuzy.github.io/cedex-website/)][[paper](https://arxiv.org/pdf/2509.24661)][[code](https://github.com/GeorgeWuzy/CEDex-Grasp)][[data](https://github.com/GeorgeWuzy/CEDex-Grasp)]
 * **Dec 2025**: **<span style="color: darkblue;">GenForce</span>** is accepted by **Nature Communications**. Congrats to Zhuo! [[website](https://zhuochenn.github.io/genforce-project/)][[paper](https://arxiv.org/pdf/2503.01058)][[code](https://github.com/Zhuochenn/GenForce_Code)][[data](https://huggingface.co/datasets/zhuoKCL/genforce)]
 * **Oct 2025**: **<span style="color: darkblue;">ViTacGen</span>** is accepted by IEEE **RA-L**. Thanks to all authors! [[website](https://robot-perception-lab.github.io/vitacgen-website/)][[paper](https://ieeexplore.ieee.org/document/11204497)][[code](https://github.com/GeorgeWuzy/ViTacGen)]
 * **Sep 2025**: **<span style="color: darkblue;">LIX</span>** is accepted by IEEE **TIP**. Congrats to Sicen! [[paper](https://arxiv.org/pdf/2403.08215)]
