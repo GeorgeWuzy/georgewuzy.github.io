@@ -33,3 +33,20 @@ News
 * **Dec 2023**: I receive Academic Star Pacesetter from Tongji University!
 * **Jan 2023**: **<span style="color: darkblue;">TA-Stereo</span>** is accepted by IEEE **ICRA** 2023. Thanks to all authors! [[paper](https://www.ruirangerfan.com/pdf/icra2023_wu.pdf)][[data](https://mias.group/TA-Stereo/)]
 
+
+<style>
+  /* 增加整个页面主要内容的宽度 */
+  .archive, .page__content {
+    width: 90%; /* 或者具体的像素值，比如 1200px */
+    max-width: 100%; /* 确保在大屏幕上能撑开 */
+  }
+  
+  /* 如果你的模板使用了特定的容器类名，可能需要调整这些 */
+  /* 例如 AcademicPages 模板常见类名: */
+  .page {
+    padding-right: 0;
+  }
+  .page__inner-wrap {
+    max-width: 100%; 
+  }
+</style>
