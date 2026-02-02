@@ -35,13 +35,16 @@ News
 
 Selected Publications
 ======
+
 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
-  <span></span> <a href="https://scholar.google.com/citations?hl=zh-CN&user=t-LuXRIAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" style="font-size: 0.9em; color: #d9534f; text-decoration: none;">Google Scholar</a>
+  <span></span> 
+  <a href="https://scholar.google.com/citations?hl=zh-CN&user=t-LuXRIAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" style="font-size: 0.9em; color: #d9534f; text-decoration: none;">Google Scholar</a>
 </div>
+
 <div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 30px;">
   <div style="width: 25%; min-width: 160px; position: relative;">
     <img src="figs/teasers/vitacgen.gif" alt="ViTacGen Teaser" style="width: 100%; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1); border-radius: 4px;">
-    </div>
+  </div>
   <div style="width: 75%;">
     <div style="font-weight: bold; font-size: 1.1em; margin-bottom: 5px;">
       ViTacGen: Robotic Pushing with Vision-to-Touch Generation
