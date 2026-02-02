@@ -32,3 +32,4 @@ News
 * **Jan 2024**: **<span style="color: darkblue;">S<sup>3</sup>M-Net</span>** is accepted by IEEE **TIV**. Thanks to all authors! [[paper](https://arxiv.org/pdf/2401.11414)]
 * **Dec 2023**: I receive Academic Star Pacesetter from Tongji University!
 * **Jan 2023**: **<span style="color: darkblue;">TA-Stereo</span>** is accepted by IEEE **ICRA** 2023. Thanks to all authors! [[paper](https://www.ruirangerfan.com/pdf/icra2023_wu.pdf)][[data](https://mias.group/TA-Stereo/)]
+
