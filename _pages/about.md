@@ -51,7 +51,7 @@ Selected Publications
     </div>
     <div>
       <a href="https://georgewuzy.github.io/UniMorphGrasp-website/" target="_blank" style="display: inline-block; padding: 2px 8px; margin-right: 5px; border: 1px solid #333; color: #333; text-decoration: none; border-radius: 3px; font-size: 0.8em;">Website</a>
-      <a href="" target="_blank" style="display: inline-block; padding: 2px 8px; margin-right: 5px; border: 1px solid #333; color: #333; text-decoration: none; border-radius: 3px; font-size: 0.8em;">PDF</a>
+      <a href="https://arxiv.org/pdf/2602.00915" target="_blank" style="display: inline-block; padding: 2px 8px; margin-right: 5px; border: 1px solid #333; color: #333; text-decoration: none; border-radius: 3px; font-size: 0.8em;">PDF</a>
     </div>
   </div>
 </div>
