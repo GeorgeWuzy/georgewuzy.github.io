@@ -54,13 +54,13 @@ Selected Publications
     </div>
     
     <div style="font-style: italic; margin-bottom: 10px; color: #666;">
-      IEEE Robotics and Automation Letters (RA-L), 2025
+      IEEE RA-L & ICRA 2026
     </div>
     
     <div>
-      <a href="https://ieeexplore.ieee.org/document/11204497" target="_blank" style="display: inline-block; padding: 2px 8px; margin-right: 5px; border: 1px solid #333; color: #333; text-decoration: none; border-radius: 3px; font-size: 0.8em;">HTML</a>
-      <a href="https://arxiv.org/pdf/your-paper-link" target="_blank" style="display: inline-block; padding: 2px 8px; margin-right: 5px; border: 1px solid #333; color: #333; text-decoration: none; border-radius: 3px; font-size: 0.8em;">PDF</a>
       <a href="https://robot-perception-lab.github.io/vitacgen-website/" target="_blank" style="display: inline-block; padding: 2px 8px; margin-right: 5px; border: 1px solid #333; color: #333; text-decoration: none; border-radius: 3px; font-size: 0.8em;">Website</a>
+      <a href="https://arxiv.org/pdf/2510.14117" target="_blank" style="display: inline-block; padding: 2px 8px; margin-right: 5px; border: 1px solid #333; color: #333; text-decoration: none; border-radius: 3px; font-size: 0.8em;">PDF</a>
+      <a href="https://github.com/GeorgeWuzy/ViTacGen" target="_blank" style="display: inline-block; padding: 2px 8px; margin-right: 5px; border: 1px solid #333; color: #333; text-decoration: none; border-radius: 3px; font-size: 0.8em;">Code</a>
     </div>
   </div>
 </div>
