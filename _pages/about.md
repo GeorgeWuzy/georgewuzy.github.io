@@ -139,7 +139,7 @@ Selected Publications
     </div>
     <div>
       <a href="https://arxiv.org/pdf/2503.08005" target="_blank" style="display: inline-block; padding: 2px 8px; margin-right: 5px; border: 1px solid #333; color: #333; text-decoration: none; border-radius: 3px; font-size: 0.8em;">Report</a>
-      <a href="demo/cdi3d.mp4" target="_blank" style="display: inline-block; padding: 2px 8px; margin-right: 5px; border: 1px solid #333; color: #333; text-decoration: none; border-radius: 3px; font-size: 0.8em;">Demo</a>
+      <a href="/demo/cdi3d.mp4" target="_blank" style="display: inline-block; padding: 2px 8px; margin-right: 5px; border: 1px solid #333; color: #333; text-decoration: none; border-radius: 3px; font-size: 0.8em;">Demo</a>
     </div>
   </div>
 </div>
