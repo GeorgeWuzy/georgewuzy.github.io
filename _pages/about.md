@@ -125,7 +125,7 @@ Selected Publications
 
 <div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 30px;">
   <div style="width: 25%; min-width: 160px; position: relative;">
-    <img src="teasers/cdi3d.png" alt="ConViTac Teaser" style="width: 100%; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1); border-radius: 4px;">
+    <img src="teasers/cdi3d.png" alt="CDI3D Teaser" style="width: 100%; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1); border-radius: 4px;">
     </div>
   <div style="width: 75%;">
     <div style="font-weight: bold; font-size: 1.1em; margin-bottom: 5px;">
@@ -146,7 +146,7 @@ Selected Publications
 
 <div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 30px;">
   <div style="width: 25%; min-width: 160px; position: relative;">
-    <img src="teasers/sgroadseg.png" alt="ConViTac Teaser" style="width: 100%; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1); border-radius: 4px;">
+    <img src="teasers/sgroadseg.png" alt="SG-RoadSeg Teaser" style="width: 100%; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1); border-radius: 4px;">
     </div>
   <div style="width: 75%;">
     <div style="font-weight: bold; font-size: 1.1em; margin-bottom: 5px;">
@@ -168,7 +168,7 @@ Selected Publications
 
 <div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 30px;">
   <div style="width: 25%; min-width: 160px; position: relative;">
-    <img src="teasers/s3mnet.png" alt="ConViTac Teaser" style="width: 100%; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1); border-radius: 4px;">
+    <img src="teasers/s3mnet.png" alt="S3MNet Teaser" style="width: 100%; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1); border-radius: 4px;">
     </div>
   <div style="width: 75%;">
     <div style="font-weight: bold; font-size: 1.1em; margin-bottom: 5px;">
@@ -188,7 +188,7 @@ Selected Publications
 
 <div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 30px;">
   <div style="width: 25%; min-width: 160px; position: relative;">
-    <img src="teasers/tastereo.png" alt="ConViTac Teaser" style="width: 100%; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1); border-radius: 4px;">
+    <img src="teasers/tastereo.png" alt="TA-Stereo Teaser" style="width: 100%; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1); border-radius: 4px;">
     </div>
   <div style="width: 75%;">
     <div style="font-weight: bold; font-size: 1.1em; margin-bottom: 5px;">
