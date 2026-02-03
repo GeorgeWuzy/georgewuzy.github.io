@@ -37,24 +37,172 @@ Selected Publications
 ======
 <div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 30px;">
   <div style="width: 25%; min-width: 160px; position: relative;">
+    <img src="teasers/unimorphgrasp.gif" alt="CEDex Teaser" style="width: 100%; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1); border-radius: 4px;">
+    </div>
+  <div style="width: 75%;">
+    <div style="font-weight: bold; font-size: 1.1em; margin-bottom: 5px;">
+      UniMorphGrasp: Diffusion Model with Morphology-Awareness for Cross-Embodiment Dexterous Grasp Generation
+    </div>
+    <div style="margin-bottom: 5px; color: #444;">
+      <span style="text-decoration: underline;">Z Wu</span>, X Zhang, Z Chen, J Deng, RA Potamias, S Luo
+    </div>
+    <div style="font-style: italic; margin-bottom: 10px; color: #666;">
+      arXiv preprint, 2026
+    </div>
+    <div>
+      <a href="https://georgewuzy.github.io/UniMorphGrasp-website/" target="_blank" style="display: inline-block; padding: 2px 8px; margin-right: 5px; border: 1px solid #333; color: #333; text-decoration: none; border-radius: 3px; font-size: 0.8em;">Website</a>
+      <a href="" target="_blank" style="display: inline-block; padding: 2px 8px; margin-right: 5px; border: 1px solid #333; color: #333; text-decoration: none; border-radius: 3px; font-size: 0.8em;">PDF</a>
+    </div>
+  </div>
+</div>
+
+<div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 30px;">
+  <div style="width: 25%; min-width: 160px; position: relative;">
+    <img src="teasers/cedex.gif" alt="CEDex Teaser" style="width: 100%; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1); border-radius: 4px;">
+    </div>
+  <div style="width: 75%;">
+    <div style="font-weight: bold; font-size: 1.1em; margin-bottom: 5px;">
+      CEDex: Cross-Embodiment Dexterous Grasp Generation at Scale from Human-like Contact Representations
+    </div>
+    <div style="margin-bottom: 5px; color: #444;">
+      <span style="text-decoration: underline;">Z Wu</span>, RA Potamias, X Zhang, Z Zhang, J Deng, S Luo
+    </div>
+    <div style="font-style: italic; margin-bottom: 10px; color: #666;">
+      ICRA 2026
+    </div>
+    <div>
+      <a href="https://georgewuzy.github.io/cedex-website/" target="_blank" style="display: inline-block; padding: 2px 8px; margin-right: 5px; border: 1px solid #333; color: #333; text-decoration: none; border-radius: 3px; font-size: 0.8em;">Website</a>
+      <a href="https://arxiv.org/pdf/2509.24661" target="_blank" style="display: inline-block; padding: 2px 8px; margin-right: 5px; border: 1px solid #333; color: #333; text-decoration: none; border-radius: 3px; font-size: 0.8em;">PDF</a>
+      <a href="https://github.com/GeorgeWuzy/CEDex-Grasp" target="_blank" style="display: inline-block; padding: 2px 8px; margin-right: 5px; border: 1px solid #333; color: #333; text-decoration: none; border-radius: 3px; font-size: 0.8em;">Code</a>
+      <a href="https://github.com/GeorgeWuzy/CEDex-Grasp" target="_blank" style="display: inline-block; padding: 2px 8px; margin-right: 5px; border: 1px solid #333; color: #333; text-decoration: none; border-radius: 3px; font-size: 0.8em;">Data</a>
+    </div>
+  </div>
+</div>
+
+<div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 30px;">
+  <div style="width: 25%; min-width: 160px; position: relative;">
     <img src="teasers/vitacgen.gif" alt="ViTacGen Teaser" style="width: 100%; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1); border-radius: 4px;">
     </div>
-  
   <div style="width: 75%;">
     <div style="font-weight: bold; font-size: 1.1em; margin-bottom: 5px;">
       ViTacGen: Robotic Pushing with Vision-to-Touch Generation
     </div>
-    
     <div style="margin-bottom: 5px; color: #444;">
-      <span style="text-decoration: underline;">Zhiyuan Wu</span>, Yijiong Lin, Yongqiang Zhao, Xuyang Zhang, Zhuo Chen, Nathan Lepora, and Shan Luo
+      <span style="text-decoration: underline;">Z Wu</span>, Y Lin, Y Zhao, X Zhang, Z Chen, N Lepora, S Luo
     </div>
     <div style="font-style: italic; margin-bottom: 10px; color: #666;">
-      IEEE RA-L & ICRA 2026
+      RA-L, 2025 & ICRA 2026
     </div>
     <div>
       <a href="https://robot-perception-lab.github.io/vitacgen-website/" target="_blank" style="display: inline-block; padding: 2px 8px; margin-right: 5px; border: 1px solid #333; color: #333; text-decoration: none; border-radius: 3px; font-size: 0.8em;">Website</a>
       <a href="https://arxiv.org/pdf/2510.14117" target="_blank" style="display: inline-block; padding: 2px 8px; margin-right: 5px; border: 1px solid #333; color: #333; text-decoration: none; border-radius: 3px; font-size: 0.8em;">PDF</a>
       <a href="https://github.com/GeorgeWuzy/ViTacGen" target="_blank" style="display: inline-block; padding: 2px 8px; margin-right: 5px; border: 1px solid #333; color: #333; text-decoration: none; border-radius: 3px; font-size: 0.8em;">Code</a>
+    </div>
+  </div>
+</div>
+
+<div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 30px;">
+  <div style="width: 25%; min-width: 160px; position: relative;">
+    <img src="teasers/convitac.gif" alt="ConViTac Teaser" style="width: 100%; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1); border-radius: 4px;">
+    </div>
+  <div style="width: 75%;">
+    <div style="font-weight: bold; font-size: 1.1em; margin-bottom: 5px;">
+      ConViTac: Aligning Visual-Tactile Fusion with Contrastive Representations
+    </div>
+    <div style="margin-bottom: 5px; color: #444;">
+      <span style="text-decoration: underline;">Z Wu</span>, Y Zhao, S Luo
+    </div>
+    <div style="font-style: italic; margin-bottom: 10px; color: #666;">
+      IROS 2025
+    </div>
+    <div>
+      <a href="https://georgewuzy.github.io/ConViTac-website/" target="_blank" style="display: inline-block; padding: 2px 8px; margin-right: 5px; border: 1px solid #333; color: #333; text-decoration: none; border-radius: 3px; font-size: 0.8em;">Website</a>
+      <a href="https://arxiv.org/abs/2506.20757" target="_blank" style="display: inline-block; padding: 2px 8px; margin-right: 5px; border: 1px solid #333; color: #333; text-decoration: none; border-radius: 3px; font-size: 0.8em;">PDF</a>
+      <a href="https://georgewuzy.github.io/ConViTac-website/#demo" target="_blank" style="display: inline-block; padding: 2px 8px; margin-right: 5px; border: 1px solid #333; color: #333; text-decoration: none; border-radius: 3px; font-size: 0.8em;">Demo</a>
+    </div>
+  </div>
+</div>
+
+<div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 30px;">
+  <div style="width: 25%; min-width: 160px; position: relative;">
+    <img src="teasers/cdi3d.png" alt="ConViTac Teaser" style="width: 100%; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1); border-radius: 4px;">
+    </div>
+  <div style="width: 75%;">
+    <div style="font-weight: bold; font-size: 1.1em; margin-bottom: 5px;">
+      CDI3D: Cross-guided Dense-view Interpolation for 3D Reconstruction
+    </div>
+    <div style="margin-bottom: 5px; color: #444;">
+      <span style="text-decoration: underline;">Z Wu</span>, X Song, S Wang, W Liu, J Yang, Z Cheng, S Chen, T Shang, W Sun, S Luo, P Ji
+    </div>
+    <div style="font-style: italic; margin-bottom: 10px; color: #666;">
+      Work done in Tencent XR Vision Lab, 2024
+    </div>
+    <div>
+      <a href="https://arxiv.org/pdf/2503.08005" target="_blank" style="display: inline-block; padding: 2px 8px; margin-right: 5px; border: 1px solid #333; color: #333; text-decoration: none; border-radius: 3px; font-size: 0.8em;">Report</a>
+      <a href="demo/cdi3d.mp4" target="_blank" style="display: inline-block; padding: 2px 8px; margin-right: 5px; border: 1px solid #333; color: #333; text-decoration: none; border-radius: 3px; font-size: 0.8em;">Demo</a>
+    </div>
+  </div>
+</div>
+
+<div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 30px;">
+  <div style="width: 25%; min-width: 160px; position: relative;">
+    <img src="teasers/sgroadseg.png" alt="ConViTac Teaser" style="width: 100%; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1); border-radius: 4px;">
+    </div>
+  <div style="width: 75%;">
+    <div style="font-weight: bold; font-size: 1.1em; margin-bottom: 5px;">
+      SG-RoadSeg: End-to-End Collision-Free Space Detection Sharing Encoder Representations Jointly Learned via Unsupervised Deep Stereo
+    </div>
+    <div style="margin-bottom: 5px; color: #444;">
+      <span style="text-decoration: underline;">Z Wu</span>, J Li, Y Feng, C Liu, W Ye, Q Chen, R Fan
+    </div>
+    <div style="font-style: italic; margin-bottom: 10px; color: #666;">
+      ICRA 2024
+    </div>
+    <div>
+      <a href="mias.group/SG-RoadSeg" target="_blank" style="display: inline-block; padding: 2px 8px; margin-right: 5px; border: 1px solid #333; color: #333; text-decoration: none; border-radius: 3px; font-size: 0.8em;">Website</a>
+      <a href="https://www.ruirangerfan.com/pdf/icra2024_wu.pdf" target="_blank" style="display: inline-block; padding: 2px 8px; margin-right: 5px; border: 1px solid #333; color: #333; text-decoration: none; border-radius: 3px; font-size: 0.8em;">PDF</a>
+      <a href="https://www.youtube.com/watch?v=WFHcpN8HPKI" target="_blank" style="display: inline-block; padding: 2px 8px; margin-right: 5px; border: 1px solid #333; color: #333; text-decoration: none; border-radius: 3px; font-size: 0.8em;">Demo</a>
+    </div>
+  </div>
+</div>
+
+<div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 30px;">
+  <div style="width: 25%; min-width: 160px; position: relative;">
+    <img src="teasers/s3mnet.png" alt="ConViTac Teaser" style="width: 100%; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1); border-radius: 4px;">
+    </div>
+  <div style="width: 75%;">
+    <div style="font-weight: bold; font-size: 1.1em; margin-bottom: 5px;">
+      S<sup>3</sup>M-Net: Joint Learning of Semantic Segmentation and Stereo Matching for Autonomous Driving
+    </div>
+    <div style="margin-bottom: 5px; color: #444;">
+      <span style="text-decoration: underline;">Z Wu</span>, Y Feng, CW Liu, F Yu, Q Chen, R Fan
+    </div>
+    <div style="font-style: italic; margin-bottom: 10px; color: #666;">
+      T-IV, 2024
+    </div>
+    <div>
+      <a href="https://arxiv.org/pdf/2401.11414" target="_blank" style="display: inline-block; padding: 2px 8px; margin-right: 5px; border: 1px solid #333; color: #333; text-decoration: none; border-radius: 3px; font-size: 0.8em;">PDF</a>
+    </div>
+  </div>
+</div>
+
+<div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 30px;">
+  <div style="width: 25%; min-width: 160px; position: relative;">
+    <img src="teasers/tastereo.png" alt="ConViTac Teaser" style="width: 100%; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1); border-radius: 4px;">
+    </div>
+  <div style="width: 75%;">
+    <div style="font-weight: bold; font-size: 1.1em; margin-bottom: 5px;">
+      Transparent Objects: A Corner Case in Stereo Matching
+    </div>
+    <div style="margin-bottom: 5px; color: #444;">
+      <span style="text-decoration: underline;">Z Wu</span>*, S Su*, Q Chen, R Fan
+    </div>
+    <div style="font-style: italic; margin-bottom: 10px; color: #666;">
+      ICRA 2023
+    </div>
+    <div>
+      <a href="https://www.ruirangerfan.com/pdf/icra2023_wu.pdf" target="_blank" style="display: inline-block; padding: 2px 8px; margin-right: 5px; border: 1px solid #333; color: #333; text-decoration: none; border-radius: 3px; font-size: 0.8em;">PDF</a>
+      <a href="https://mias.group/TA-Stereo/" target="_blank" style="display: inline-block; padding: 2px 8px; margin-right: 5px; border: 1px solid #333; color: #333; text-decoration: none; border-radius: 3px; font-size: 0.8em;">Data</a>
     </div>
   </div>
 </div>
