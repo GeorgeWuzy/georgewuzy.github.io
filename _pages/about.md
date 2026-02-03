@@ -41,7 +41,7 @@ Selected Publications
 
 <div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 30px;">
   <div style="width: 25%; min-width: 160px; position: relative;">
-    <img src="figs/teasers/vitacgen.gif" alt="ViTacGen Teaser" style="width: 100%; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1); border-radius: 4px;">
+    <img src="teasers/vitacgen.gif" alt="ViTacGen Teaser" style="width: 100%; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1); border-radius: 4px;">
     </div>
   
   <div style="width: 75%;">
