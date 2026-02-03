@@ -33,6 +33,37 @@ News
 * **Dec 2023**: I receive Academic Star Pacesetter from Tongji University!
 * **Jan 2023**: **<span style="color: darkblue;">TA-Stereo</span>** is accepted by IEEE **ICRA** 2023. Thanks to all authors! [[paper](https://www.ruirangerfan.com/pdf/icra2023_wu.pdf)][[data](https://mias.group/TA-Stereo/)]
 
+Selected Publications
+======
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+  <span></span> <a href="https://scholar.google.com/citations?user=你的ID" target="_blank" style="font-size: 0.9em; color: #d9534f; text-decoration: none;">see Google Scholar</a>
+</div>
+
+<div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 30px;">
+  <div style="width: 25%; min-width: 160px; position: relative;">
+    <img src="figs/teasers/vitacgen.gif" alt="ViTacGen Teaser" style="width: 100%; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1); border-radius: 4px;">
+    </div>
+  
+  <div style="width: 75%;">
+    <div style="font-weight: bold; font-size: 1.1em; margin-bottom: 5px;">
+      ViTacGen: Robotic Pushing with Vision-to-Touch Generation
+    </div>
+    
+    <div style="margin-bottom: 5px; color: #444;">
+      <strong>Zhiyuan Wu</strong>, Yijiong Lin, Yongqiang Zhao, Xuyang Zhang, Zhuo Chen, Nathan Lepora, and Shan Luo
+    </div>
+    
+    <div style="font-style: italic; margin-bottom: 10px; color: #666;">
+      IEEE Robotics and Automation Letters (RA-L), 2025
+    </div>
+    
+    <div>
+      <a href="https://ieeexplore.ieee.org/document/11204497" target="_blank" style="display: inline-block; padding: 2px 8px; margin-right: 5px; border: 1px solid #333; color: #333; text-decoration: none; border-radius: 3px; font-size: 0.8em;">HTML</a>
+      <a href="https://arxiv.org/pdf/your-paper-link" target="_blank" style="display: inline-block; padding: 2px 8px; margin-right: 5px; border: 1px solid #333; color: #333; text-decoration: none; border-radius: 3px; font-size: 0.8em;">PDF</a>
+      <a href="https://robot-perception-lab.github.io/vitacgen-website/" target="_blank" style="display: inline-block; padding: 2px 8px; margin-right: 5px; border: 1px solid #333; color: #333; text-decoration: none; border-radius: 3px; font-size: 0.8em;">Website</a>
+    </div>
+  </div>
+</div>
 
 <style>
   /* 增加整个页面主要内容的宽度 */
