@@ -135,7 +135,7 @@ Selected Publications
       <span style="text-decoration: underline;">Z Wu</span>, X Song, S Wang, W Liu, J Yang, Z Cheng, S Chen, T Shang, W Sun, S Luo, P Ji
     </div>
     <div style="font-style: italic; margin-bottom: 10px; color: #666;">
-      Work done in Tencent XR Vision Lab, 2024
+      Work done at Tencent XR Vision Lab, 2024
     </div>
     <div>
       <a href="https://arxiv.org/pdf/2503.08005" target="_blank" style="display: inline-block; padding: 2px 8px; margin-right: 5px; border: 1px solid #333; color: #333; text-decoration: none; border-radius: 3px; font-size: 0.8em;">Report</a>
