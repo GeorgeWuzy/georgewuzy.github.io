@@ -119,7 +119,6 @@ Selected Publications
       <a href="https://georgewuzy.github.io/ConViTac-website/" target="_blank" style="display: inline-block; padding: 2px 8px; margin-right: 5px; border: 1px solid #333; color: #333; text-decoration: none; border-radius: 3px; font-size: 0.8em;">Website</a>
       <a href="https://arxiv.org/abs/2506.20757" target="_blank" style="display: inline-block; padding: 2px 8px; margin-right: 5px; border: 1px solid #333; color: #333; text-decoration: none; border-radius: 3px; font-size: 0.8em;">PDF</a>
       <a href="https://github.com/GeorgeWuzy/ConViTac" target="_blank" style="display: inline-block; padding: 2px 8px; margin-right: 5px; border: 1px solid #333; color: #333; text-decoration: none; border-radius: 3px; font-size: 0.8em;">Code</a>
-      <a href="https://georgewuzy.github.io/ConViTac-website/#demo" target="_blank" style="display: inline-block; padding: 2px 8px; margin-right: 5px; border: 1px solid #333; color: #333; text-decoration: none; border-radius: 3px; font-size: 0.8em;">Demo</a>
     </div>
   </div>
 </div>
@@ -160,7 +159,6 @@ Selected Publications
       ICRA 2024
     </div>
     <div>
-      <a href="mias.group/SG-RoadSeg" target="_blank" style="display: inline-block; padding: 2px 8px; margin-right: 5px; border: 1px solid #333; color: #333; text-decoration: none; border-radius: 3px; font-size: 0.8em;">Website</a>
       <a href="https://www.ruirangerfan.com/pdf/icra2024_wu.pdf" target="_blank" style="display: inline-block; padding: 2px 8px; margin-right: 5px; border: 1px solid #333; color: #333; text-decoration: none; border-radius: 3px; font-size: 0.8em;">PDF</a>
       <a href="https://www.youtube.com/watch?v=WFHcpN8HPKI" target="_blank" style="display: inline-block; padding: 2px 8px; margin-right: 5px; border: 1px solid #333; color: #333; text-decoration: none; border-radius: 3px; font-size: 0.8em;">Demo</a>
     </div>
