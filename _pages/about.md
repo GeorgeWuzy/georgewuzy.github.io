@@ -20,7 +20,7 @@ News
 * **Oct 2025**: **<span style="color: darkblue;">ViTacGen</span>** is accepted by IEEE **RA-L** & **ICRA** 2026. Thanks to all authors! [[website](https://robot-perception-lab.github.io/vitacgen-website/)][[paper](https://ieeexplore.ieee.org/document/11204497)][[code](https://github.com/GeorgeWuzy/ViTacGen)]
 * **Sep 2025**: **<span style="color: darkblue;">LIX</span>** is accepted by IEEE **TIP**. Congrats to Sicen! [[paper](https://arxiv.org/pdf/2403.08215)]
 * **Jun 2025**: **<span style="color: darkblue;">TiCoSS</span>** is accepted by IEEE **TASE** & **ICRA** 2026. Congrats to Guanfeng! [[paper](https://arxiv.org/pdf/2407.18038)]
-* **Jun 2025**: **<span style="color: darkblue;">ConViTac</span>** is accepted by IEEE **IROS** 2025. Thanks to all authors! [[website](https://georgewuzy.github.io/ConViTac-website/)][[paper](https://arxiv.org/pdf/2506.20757)]
+* **Jun 2025**: **<span style="color: darkblue;">ConViTac</span>** is accepted by IEEE **IROS** 2025. Thanks to all authors! [[website](https://georgewuzy.github.io/ConViTac-website/)][[paper](https://arxiv.org/pdf/2506.20757)][[code](https://github.com/GeorgeWuzy/ConViTac)]
 * **May 2025**: **<span style="color: darkblue;">SG-RoadSeg+</span>** is accepted by IEEE **TIM**. Congrats to Ming-Ju! [[paper](https://ieeexplore.ieee.org/abstract/document/11037419)]
 * **Apr 2025**: I start an internship at Noah's Ark Lab, London!
 * **Sep 2024**: I start my PhD journey at King's College London!
@@ -118,6 +118,7 @@ Selected Publications
     <div>
       <a href="https://georgewuzy.github.io/ConViTac-website/" target="_blank" style="display: inline-block; padding: 2px 8px; margin-right: 5px; border: 1px solid #333; color: #333; text-decoration: none; border-radius: 3px; font-size: 0.8em;">Website</a>
       <a href="https://arxiv.org/abs/2506.20757" target="_blank" style="display: inline-block; padding: 2px 8px; margin-right: 5px; border: 1px solid #333; color: #333; text-decoration: none; border-radius: 3px; font-size: 0.8em;">PDF</a>
+      <a href="https://github.com/GeorgeWuzy/ConViTac" target="_blank" style="display: inline-block; padding: 2px 8px; margin-right: 5px; border: 1px solid #333; color: #333; text-decoration: none; border-radius: 3px; font-size: 0.8em;">Code</a>
       <a href="https://georgewuzy.github.io/ConViTac-website/#demo" target="_blank" style="display: inline-block; padding: 2px 8px; margin-right: 5px; border: 1px solid #333; color: #333; text-decoration: none; border-radius: 3px; font-size: 0.8em;">Demo</a>
     </div>
   </div>
