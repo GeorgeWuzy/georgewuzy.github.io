@@ -146,6 +146,26 @@ Selected Publications
 
 <div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 30px;">
   <div style="width: 25%; min-width: 160px; position: relative;">
+    <img src="teasers/zeron.gif" alt="ZERON Teaser" style="width: 100%; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1); border-radius: 4px;">
+    </div>
+  <div style="width: 75%;">
+    <div style="font-weight: bold; font-size: 1.1em; margin-bottom: 5px;">
+      End-to-End Autonomous Driving Using Vision Language Model
+    </div>
+    <div style="margin-bottom: 5px; color: #444;">
+      Team ZERON (Contributed to model architecture, training pipeline, and toolchain development)
+    </div>
+    <div style="font-style: italic; margin-bottom: 10px; color: #666;">
+      Rank 2nd/143 international teams in [Autonomous Grand Challenge](https://opendrivelab.com/challenge2024/#end_to_end_driving_at_scale) at CVPR 2024
+    </div>
+    <div>
+      <a href="https://opendrivelab.github.io/Challenge%202024/e2e_ZERON.pdf" target="_blank" style="display: inline-block; padding: 2px 8px; margin-right: 5px; border: 1px solid #333; color: #333; text-decoration: none; border-radius: 3px; font-size: 0.8em;">Report</a>
+    </div>
+  </div>
+</div>
+
+<div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 30px;">
+  <div style="width: 25%; min-width: 160px; position: relative;">
     <img src="teasers/sgroadseg.png" alt="SG-RoadSeg Teaser" style="width: 100%; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1); border-radius: 4px;">
     </div>
   <div style="width: 75%;">
