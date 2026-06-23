@@ -153,9 +153,9 @@ Selected Publications
       End-to-End Autonomous Driving Using Vision Language Model
     </div>
     <div style="margin-bottom: 5px; color: #444;">
-      Team ZERON (Contributed to model architecture, training pipeline, and toolchain development)
+      Team ZERON (Contributed to model development, training, and toolchain building)
     </div>
-    <div style="font-style: italic; margin-bottom: 10px; color: #666;"> Ranked 2nd out of 143 international teams in <a href="https://opendrivelab.com/challenge2024/#end_to_end_driving_at_scale" target="_blank" rel="noopener noreferrer"> Autonomous Grand Challenge </a> at CVPR 2024 </div>
+    <div style="font-style: italic; margin-bottom: 10px; color: #666;"> Ranked <strong>2nd/143</strong> in <a href="https://opendrivelab.com/challenge2024/#end_to_end_driving_at_scale" target="_blank" rel="noopener noreferrer"> Autonomous Grand Challenge </a> at CVPR 2024 </div>
     <div>
       <a href="https://opendrivelab.github.io/Challenge%202024/e2e_ZERON.pdf" target="_blank" style="display: inline-block; padding: 2px 8px; margin-right: 5px; border: 1px solid #333; color: #333; text-decoration: none; border-radius: 3px; font-size: 0.8em;">Report</a>
     </div>
