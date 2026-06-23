@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student at Robot Perception Lab, King's College London, supervised by Dr. [Shan Luo](https://shanluo.github.io/). I am also a research intern in Noah’s Ark Lab, London, supervised by Dr. [Jiankang Deng](https://jiankangdeng.github.io/). Previously, I obtained my Bachelor's degree from Tongji University, supervised by Prof. [Rui Fan](https://www.ruirangerfan.com/). I was a research intern at Tencent XR Vision Lab, directed by Dr. [Pan Ji](https://panji530.github.io/). My research interest includes Robot Manipulation, Robot Perception, and 3D Vision.
+I am a second-year PhD student at Robot Perception Lab, King's College London, supervised by Prof. [Shan Luo](https://shanluo.github.io/). I also work closely with Prof. [Rolandos Alexandros Potamias](https://rolpotamias.github.io/) and Prof. [Jiankang Deng](https://jiankangdeng.github.io/) at Imperial College London on embodied AI. Previously, I obtained my Bachelor's degree from Tongji University, supervised by Prof. [Rui Fan](https://www.ruirangerfan.com/). I was a research intern at Tencent XR Vision Lab, working with Dr. [Xibin Song](https://xbsong.github.io/) and Dr. [Pan Ji](https://panji530.github.io/), and a research intern at ZERON (ex-TuSimple team), working with Dr. [Long Sha](https://scholar.google.com/citations?user=5BB_vQsAAAAJ) and Dr. [Panqu Wang](https://wpqmanu.github.io/). My research interest includes Robot Manipulation, Robot Perception, and 3D Vision.
 
 Contact
 ======
