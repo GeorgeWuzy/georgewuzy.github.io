@@ -126,6 +126,26 @@ Selected Publications
 
 <div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 30px;">
   <div style="width: 25%; min-width: 160px; position: relative;">
+    <img src="teasers/vtloc.png" alt="VTLoc Teaser" style="width: 100%; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1); border-radius: 4px;">
+    </div>
+  <div style="width: 75%;">
+    <div style="font-weight: bold; font-size: 1.1em; margin-bottom: 5px;">
+      VTLoc: Learning-based Tactile Contact Localization in Visual Point Clouds
+    </div>
+    <div style="margin-bottom: 5px; color: #444;">
+      <span style="text-decoration: underline;">Z Wu</span>, Z Chen, S Luo
+    </div>
+    <div style="font-style: italic; margin-bottom: 10px; color: #666;">
+      RA-L, 2025
+    </div>
+    <div>
+      <a href="https://kclpure.kcl.ac.uk/ws/portalfiles/portal/380432612/VTLoc_final.pdf" target="_blank" style="display: inline-block; padding: 2px 8px; margin-right: 5px; border: 1px solid #333; color: #333; text-decoration: none; border-radius: 3px; font-size: 0.8em;">PDF</a>
+    </div>
+  </div>
+</div>
+
+<div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 30px;">
+  <div style="width: 25%; min-width: 160px; position: relative;">
     <img src="teasers/cdi3d.png" alt="CDI3D Teaser" style="width: 100%; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1); border-radius: 4px;">
     </div>
   <div style="width: 75%;">
