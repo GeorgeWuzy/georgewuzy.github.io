@@ -15,7 +15,7 @@ Email: [zhiyuan.1.wu@kcl.ac.uk](zhiyuan.1.wu@kcl.ac.uk)
 
 News
 ======
-* **Jul 2026**: **<span style="color: darkblue;">VTLoc</span>** is accepted by IEEE **RA-L**. Thanks to all authors! [[paper](https://kclpure.kcl.ac.uk/ws/portalfiles/portal/380432612/VTLoc_final.pdf)]
+* **Jul 2026**: **<span style="color: darkblue;">VTLoc</span>** is accepted by IEEE **RA-L**. Thanks to all authors! [[paper](https://ieeexplore.ieee.org/document/11614441)]
 * **Jan 2026**: **<span style="color: darkblue;">CEDex</span>** is accepted by IEEE **ICRA** 2026. Thanks to all authors! [[website](https://georgewuzy.github.io/cedex-website/)][[paper](https://arxiv.org/pdf/2509.24661)][[code](https://github.com/GeorgeWuzy/CEDex-Grasp)][[data](https://github.com/GeorgeWuzy/CEDex-Grasp)]
 * **Dec 2025**: **<span style="color: darkblue;">GenForce</span>** is accepted by **Nature Communications**. Congrats to Zhuo! [[website](https://zhuochenn.github.io/genforce-project/)][[paper](https://arxiv.org/pdf/2503.01058)][[code](https://github.com/Zhuochenn/GenForce_Code)][[data](https://huggingface.co/datasets/zhuoKCL/genforce)]
 * **Oct 2025**: **<span style="color: darkblue;">ViTacGen</span>** is accepted by IEEE **RA-L** & **ICRA** 2026. Thanks to all authors! [[website](https://robot-perception-lab.github.io/vitacgen-website/)][[paper](https://ieeexplore.ieee.org/document/11204497)][[code](https://github.com/GeorgeWuzy/ViTacGen)]
@@ -139,7 +139,7 @@ Selected Publications
       RA-L, 2025
     </div>
     <div>
-      <a href="https://kclpure.kcl.ac.uk/ws/portalfiles/portal/380432612/VTLoc_final.pdf" target="_blank" style="display: inline-block; padding: 2px 8px; margin-right: 5px; border: 1px solid #333; color: #333; text-decoration: none; border-radius: 3px; font-size: 0.8em;">PDF</a>
+      <a href="https://ieeexplore.ieee.org/document/11614441" target="_blank" style="display: inline-block; padding: 2px 8px; margin-right: 5px; border: 1px solid #333; color: #333; text-decoration: none; border-radius: 3px; font-size: 0.8em;">PDF</a>
     </div>
   </div>
 </div>
