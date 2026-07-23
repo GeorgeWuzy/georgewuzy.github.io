@@ -92,7 +92,7 @@ Selected Publications
       <span style="text-decoration: underline;">Z Wu</span>, Y Lin, Y Zhao, X Zhang, Z Chen, N Lepora, S Luo
     </div>
     <div style="font-style: italic; margin-bottom: 10px; color: #666;">
-      RA-L, 2025 & ICRA 2026
+      RA-L, 2025
     </div>
     <div>
       <a href="https://robot-perception-lab.github.io/vitacgen-website/" target="_blank" style="display: inline-block; padding: 2px 8px; margin-right: 5px; border: 1px solid #333; color: #333; text-decoration: none; border-radius: 3px; font-size: 0.8em;">Website</a>
