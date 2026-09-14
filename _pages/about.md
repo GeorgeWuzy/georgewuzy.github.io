@@ -49,7 +49,7 @@ Selected Publications
       <span style="text-decoration: underline;">Z Wu</span>, X Zhang, Z Chen, J Deng, RA Potamias, S Luo
     </div>
     <div style="font-style: italic; margin-bottom: 10px; color: #666;">
-      arXiv preprint, 2026
+      CoRL 2026
     </div>
     <div>
       <a href="https://georgewuzy.github.io/UniMorphGrasp-website/" target="_blank" style="display: inline-block; padding: 2px 8px; margin-right: 5px; border: 1px solid #333; color: #333; text-decoration: none; border-radius: 3px; font-size: 0.8em;">Website</a>
