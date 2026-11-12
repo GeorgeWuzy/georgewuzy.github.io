@@ -15,7 +15,7 @@ Email: [zhiyuan.1.wu@kcl.ac.uk](zhiyuan.1.wu@kcl.ac.uk)
 
 News
 ======
-* **Sep 2026**: **<span style="color: darkblue;">DiffMorphGrasp</span>** is accepted by **CoRL** 2026. Thanks to all authors! [[website](https://georgewuzy.github.io/UniMorphGrasp-website/)][[code](https://github.com/GeorgeWuzy/DiffMorphGrasp)]
+* **Sep 2026**: **<span style="color: darkblue;">DiffMorphGrasp</span>** is accepted by **CoRL** 2026. Thanks to all authors! [[website](https://georgewuzy.github.io/UniMorphGrasp-website/)][[paper](https://arxiv.org/pdf/2602.00915)][[code](https://github.com/GeorgeWuzy/DiffMorphGrasp)]
 * **Jul 2026**: **<span style="color: darkblue;">VTLoc</span>** is accepted by IEEE **RA-L**. Thanks to all authors! [[paper](https://ieeexplore.ieee.org/document/11614441)]
 * **Jan 2026**: **<span style="color: darkblue;">CEDex</span>** is accepted by IEEE **ICRA** 2026. Thanks to all authors! [[website](https://georgewuzy.github.io/cedex-website/)][[paper](https://arxiv.org/pdf/2509.24661)][[code](https://github.com/GeorgeWuzy/CEDex-Grasp)][[data](https://github.com/GeorgeWuzy/CEDex-Grasp)]
 * **Dec 2025**: **<span style="color: darkblue;">GenForce</span>** is accepted by **Nature Communications**. Congrats to Zhuo! [[website](https://zhuochenn.github.io/genforce-project/)][[paper](https://arxiv.org/pdf/2503.01058)][[code](https://github.com/Zhuochenn/GenForce_Code)][[data](https://huggingface.co/datasets/zhuoKCL/genforce)]
